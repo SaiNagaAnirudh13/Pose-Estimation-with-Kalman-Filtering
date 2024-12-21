@@ -3,6 +3,10 @@
 This project implements real-time pose estimation and tracking using MediaPipe, OpenCV, and Kalman filters for enhanced stability. It processes video frames to detect keypoints and applies Kalman filtering to reduce noise, ensuring smooth and accurate pose estimation.
 
 ---
+## Sample Input Video Results
+
+https://github.com/user-attachments/assets/dd24e50a-52e8-4b14-8bcb-b6023e4eadad
+
 
 ## Introduction
 
